@@ -1,0 +1,12 @@
+1. Faire des recherches sur la fertilité.
+2. A partir des recherches, trouver comment notre cansat va établir la fertilité (quelles données).
+3. Séquencer toutes les étapes de la descente/mission. Pour chacune, déterminer les compossants nécessaires, puis en faire une liste.
+4. Déterminer les fonctions principales nécéssaires au programme ;  un plan du code.
+5. Commencer la communication et le design du logo.
+6. Se renseigner sur les circuits électriques (livre Practical Electronics for Inventors).
+7. Commencer le design sur du CanSat sur Fusion 360.
+8. Dessiner le schéma du circuit électrique.
+9. Commencer le code.
+10. Debugger le code et le circuit électrique avec un breadboard.
+11. Rédaction du rapport + traduction en anglais.
+12. Dernière modification/correction.
